@@ -8,19 +8,13 @@ models.Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 
-# <-- CORS
-origins = [
-    "http://localhost:5173",
-    "http://127.0.0.1:5173",
-    # agar prod domen bo'lsa shu yerga qo'shing: "https://your-frontend.com"
-]
+# CORS: test uchun keng ruxsat (Production’da aniq domenlarni yozasiz)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=origins,
-    allow_credentials=True,
+    allow_origins=["*"],        # vaqtincha *
+    allow_credentials=False,    # * bilan True bo'lmasin
     allow_methods=["*"],
     allow_headers=["*"],
 )
-# -->
 
 app.include_router(quiz_router)
