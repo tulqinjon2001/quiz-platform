@@ -1,962 +1,281 @@
 [
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "Idokon dasturini qaysi browser orqali ishlatish zarur?",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "Google Chrome",
+      "B": "Yandex",
+      "C": "Opera"
     },
-    "correct_option": "B"
+    "correct_option": "A"
   },
   {
-    "text": "HTML bu ...",
+    "text": "Admin panelda qanday amallar bajariladi?",
     "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
+      "A": "Mahsulotlarni kiritish, narxlarni narozat qilish, Hisobotlarni tekshirish, do'kon tizimini boshqarish",
+      "B": "Mahsulotlarni sotish, hisobotlarni tekshirish",
+      "C": "Mijozning mahsulotlarini telefonda yig'ib kassaga jo'natish"
     },
-    "correct_option": "C"
+    "correct_option": "A"
   },
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "Kassa panelda qanday amallar bajariladi?",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "Mahsulotlarni sotish, qarzga berish, qarzini yopish, mijozlarga bonus berish",
+      "B": "Mahsulotlarni kiritish, uni sotish, ta'minotchilarga pul to'lash",
+      "C": "Tovarlarning sonini o'zgartirish, inventarizatsiya qilish, analitika bo'limini tekshirish"
     },
-    "correct_option": "B"
+    "correct_option": "A"
   },
   {
-    "text": "HTML bu ...",
+    "text": "Mahsulotlarni qanday usullar idokon dasturiga kiritish mumkin?",
     "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
+      "A": "Admin panel qismidan oddiy qo'shish orqali, exceldan yuklash orqali va Sales Doctorga integratsiya orqali",
+      "B": "Clouddan yuklash yoki exceldan yuklash orqali",
+      "C": "Admin paneldan oddiy qo'shish yoki clauddan yuklash orqali"
     },
-    "correct_option": "C"
+    "correct_option": "A"
   },
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "Idokon dasturi qaysi valyutalar bilan ishlaydi?",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "So'm va dollar",
+      "B": "So'm, dollar, rubl, tenge",
+      "C": "Dollar va Rubl"
     },
-    "correct_option": "B"
+    "correct_option": "A"
   },
   {
-    "text": "HTML bu ...",
+    "text": "Mahsulotlarni qanday narxlarda sotish mumkin?",
     "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
+      "A": "Optom, dona, transfer narxda va erkin narxda",
+      "B": "Optom va dona",
+      "C": "Erkin, optom, dona"
     },
-    "correct_option": "C"
+    "correct_option": "A"
   },
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "Ta'minotchilar nima uchun kiritiladi?",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "Ta'minotchi bilan oldi berdini hisoblab borish, Undan qancha tovar qolganligini va qancha tovar sotilganligini ko'rish uchun",
+      "B": "Ta'minotchiga qarzga sotish uchun, unga bildirishnoma yoqish uchun",
+      "C": "Faqat oldi berdini ko'rib borish uchun."
     },
-    "correct_option": "B"
+    "correct_option": "A"
   },
   {
-    "text": "HTML bu ...",
+    "text": "Mahsulotlarning nomini qayerdan o'zgartirish mumkin?",
     "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
+      "A": "Mahsulot qabul qilish joyidan, 4-bo'limdagi mahsulotlar bo'limidan, inventarizatsiya bo'limidan",
+      "B": "Nomenklaturadan, qoldiqlar hisobotidan, inventarizatsiydan",
+      "C": "Savdo nuqtasi bo'limidan, Muzlatilgan mablag'lardan, Mijozlar bo'limidan"
     },
-    "correct_option": "C"
+    "correct_option": "A"
   },
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "Buyurtmalar - SD bo'limining vazifasi qanday",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "Sales Doctor dasturidan foydalanadigan ta'minotchilarga integratsiya qilish mumkin va undan kelayotgan tovarlarni dasturga avtomatik kiritish",
+      "B": "Mahsulotlarning narxini o'zgartirish uchun",
+      "C": "Qabul qilingan mahsulotlarining hisobotini tekshirish uchun"
     },
-    "correct_option": "B"
+    "correct_option": "A"
   },
   {
-    "text": "HTML bu ...",
+    "text": "Nomenklaturaning vazifasi nima?",
     "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
+      "A": "Tovarning ma'lumotlari ko'rsatish, barcha narxlarini va amal qilish muddatini o'zgartirish uchun",
+      "B": "Tovarlarning sonini va shtrix kodini o'zgartirish uchun",
+      "C": "Tovarlarni qoldiq hisobotini ko'rish, sonini va sotish narxini o'zgartirish, ta'minotchiga qaytarish uchun"
     },
-    "correct_option": "C"
+    "correct_option": "A"
   },
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "Nega nomenklaturada bitta tovarni qidirganimizda bir nechta qatorda chiqib keladi?",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "Bunda tovarlar nechta partiyada kiritilganligini ko'rish mukin bo'ladi.",
+      "B": "Bu tovar necha marta sotilgan checklari chiqib keladi",
+      "C": "Bunda necha marta narx o'zgartirilganligini ko'rsatadi"
     },
-    "correct_option": "B"
+    "correct_option": "A"
   },
   {
-    "text": "HTML bu ...",
+    "text": "Nomenklaturada mahsulotlarning qanday ma'lumotlarini o'zgartira olamiz?",
     "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
+      "A": "QQS, kelgan narxi, optom narxi, sotish narxi, transfer narxi, amal qilish muddati",
+      "B": "Soni, kelgan narxi, optom narxi, sotish narxi, transfer narxi, amal qilish muddati",
+      "C": "Kategoriyasini, optom narxi, sotish narxi, transfer narxi, amal qilish muddati"
     },
-    "correct_option": "C"
+    "correct_option": "A"
   },
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "Qayta narxlash bo'limining vazifasi qanday?",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "optom narxi, sotish narxi, transfer narxini o'zgartirish va narx o'zgarishining tarixini ko'rish",
+      "B": "kelgan narxi, sotish narxi, transfer narxini o'zgartirish va narx o'zgarishining tarixini ko'rish",
+      "C": "kelgan narxi,optom narxi, sotish narxi, transfer narxini o'zgartirish"
     },
-    "correct_option": "B"
+    "correct_option": "A"
   },
   {
-    "text": "HTML bu ...",
+    "text": "Tarix bo'limining vazifasi qanday?",
     "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
+      "A": "Qachon narx o'zgarganligini ko'rish uchun",
+      "B": "Qachon tovar kiritilganligini ko'rish uchun",
+      "C": "Qachon miqdori o'zgarganligini ko'rish uchun"
     },
-    "correct_option": "C"
+    "correct_option": "A"
   },
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "Ta'minotchiga qaytarish bo'limi qanday holatlarda ishlaydi?",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "ta'minotchiga qaytarish(возврат) qilish kerak vaqtida, yoki mahsulot miqdorini ko'p kiritib qo'yib sonini to'g'rilash kerak vaqtda",
+      "B": "ta'minotchiga qaytarish(возврат) qilish kerak vaqtida, yoki mahsulot uyga ishlatishga olib sonini to'g'rilash kerak vaqtda",
+      "C": "mahsulotlarni sotish vaqtida"
     },
-    "correct_option": "B"
+    "correct_option": "A"
   },
   {
-    "text": "HTML bu ...",
+    "text": "Hisobdan o'chirish bo'limini qanday holatda ishlatamiz?",
     "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
+      "A": "Mahsulotlarni sonini programmdan chiqarib yuborish kerak, lekin puli yoki usha mahsulotning o'zi joyiga qo'yilmaydigan vaqtda",
+      "B": "Ta'minotchiga pul berish vaqtida",
+      "C": "Mijozlar tovarlarni qaytarib(возврат) kelganida"
     },
-    "correct_option": "C"
+    "correct_option": "A"
   },
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "Inventarizatsiya bo'limi nima uchun ishlatiladi?",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "Mahsulotlarning dasturdagi va realni sonini taqqoslash uchun",
+      "B": "Mahsulotlarning qoldig'ini tekshirish uchun",
+      "C": "Mahsulotlarni boshqa filialga ko'chirish uchun"
     },
-    "correct_option": "B"
+    "correct_option": "A"
   },
   {
-    "text": "HTML bu ...",
+    "text": "Inventarizatsiya qilishni qanday to'g'ri bajarish mumkin?",
     "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
+      "A": "Mahsulotlarni qidirishdan tovarni topib sonini to'g'rilab chiqiladi, keyin inventarizatsiyalanmagan bo'limiga kirib 0 qilish va hammasini qo'shish bosiladi va nihoyat tugatish bosiladi.",
+      "B": "Mahsulotlarni qidirishdan tovarni topib sonini to'g'rilab chiqiladi va vaqtincha saqlash bosiladi",
+      "C": "Inventarizatsiyalanmagan bo'limiga kirib 0 qilish va hammasini qo'shish bosiladi va nihoyat tugatish bosiladi."
     },
-    "correct_option": "C"
+    "correct_option": "A"
   },
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "Mahsulotlarni ko'chirish bo'limi qanday vazifani bajaradi?",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "Bir nechta filialga ega do'konlarda bir biriga tovar o'tkazish vazifasini",
+      "B": "Mahsulotlarni sotish uchun",
+      "C": "Mahsulotlarni qarzga sotish uchun"
     },
-    "correct_option": "B"
+    "correct_option": "A"
   },
   {
-    "text": "HTML bu ...",
+    "text": "Guruhlash bo'limi qanday holatda ishlatiladi?",
     "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
+      "A": "Ko'rinishi, hajmi va narxi bir xil, shtrix kodlari har xil bo'lgan tovarlarni bitta tovarga biriktirish uchun",
+      "B": "Har qanday narxi bir xil tovarlarni bitta tovarga biriktirish uchun",
+      "C": "Shtrix kodi yuq tovarlarni kiritish uchun"
     },
-    "correct_option": "C"
+    "correct_option": "A"
   },
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "Idokonga qanday tarozilar ulanadi?",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "Shtrix M, yespos",
+      "B": "Rongta, Shtrix M",
+      "C": "Yespos, Rongta"
     },
-    "correct_option": "B"
+    "correct_option": "A"
   },
   {
-    "text": "HTML bu ...",
+    "text": "Donalik tovarlarni taroziga yuklasa bo'ladimi?",
     "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
+      "A": "Xa, albatta",
+      "B": "Yuq bunday funksiya yo'q",
+      "C": ""
     },
-    "correct_option": "C"
+    "correct_option": "A"
   },
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "Kilogramlik tovarlarni tarozi bo'limiga qanday o'tkazamiz?",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "Kilogramlik tovarlar tarozi bo'limida avtomatik ravishda paydo bo'ladi",
+      "B": "Buni mahsulotlar bo'limidan tarozi funksiyani yoqish kerak",
+      "C": "Kilogramlik tovarlarni tarozi bo'limiga chiqarib bo'lmaydi"
     },
-    "correct_option": "B"
+    "correct_option": "A"
   },
   {
-    "text": "HTML bu ...",
+    "text": "Tarozi uchun kod berish jarayoni qanday usullarda amalga oshirish mumkin?",
     "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
+      "A": "Tarozi bo'limining o'zidan bittalab kod berish, oxirgi raqamlari orqali va tovarlarni excelga yuklab olib kodlarini to'ldirib uni import qilish mumkin",
+      "B": "Exceldan va clouddan yuklash orqali",
+      "C": "Har bir tovarga bittalab kod berish orqali"
     },
-    "correct_option": "C"
+    "correct_option": "A"
   },
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "To'plamlar bo'limi qanday vazifani bajaradi?",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "Bir nechta tovarlar yig'ib to'plam sifatida sotish uchun",
+      "B": "Qaysidir tovardan bitta olsa, boshqasidan yana bitta qo'shib berish mumkin.",
+      "C": "Taroziga tovar yuklash uchun"
     },
-    "correct_option": "B"
+    "correct_option": "A"
   },
   {
-    "text": "HTML bu ...",
+    "text": "To'plam nomi qanday kiritiladi?",
     "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
+      "A": "Bu alohida tovar sifatida mahsulotlar qabul qilishdan nomi va shtrix kodi kiritiladi va Mahsulotlar bo'limidan to'plam funksiyasi yoqiladi",
+      "B": "To'plam bo'limida avtomatik ravishda  paydo bo'ladi",
+      "C": "Nomenklaturadan kiritiladi"
     },
-    "correct_option": "C"
+    "correct_option": "A"
   },
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "Aksiya bo'limi qanday vazifani bajaradi?",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "Qaysidir tovardan bitta olsa, boshqasidan yana bitta qo'shib berish mumkin.",
+      "B": "Mahsulotlarning narxidan 50% chegirma qilib berish",
+      "C": "Mijoz olgan tovarlari summasidan qanchadir midqorda bonus berish"
     },
-    "correct_option": "B"
+    "correct_option": "A"
   },
   {
-    "text": "HTML bu ...",
+    "text": "Cheklar bo'limi qanday vazifani bajaradi?",
     "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
+      "A": "Kassadan sotilgan har bir checkining holati bilan tekshirish uchun",
+      "B": "Qarzga sotilgan tovarlarni ko'rish uchun",
+      "C": "Narx yorlig'i chiqarish uchun"
     },
-    "correct_option": "C"
+    "correct_option": "A"
   },
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "Narxlar bo'limi qanday vazifani bajaradi?",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "Tovarlarning narxi, shtrix kodi va kilogramlik tovarlarni PLU kodini chiqarish",
+      "B": "Tovarlarning optom narxini o'zgartirish uchun",
+      "C": "Tovarlarni kelgan narxini o'zgartirish uchun"
     },
-    "correct_option": "B"
+    "correct_option": "A"
   },
   {
-    "text": "HTML bu ...",
+    "text": "Kilogramlik tovarlar uchun PLU kodini qayday o'lchamdagi qog'ozlarda chiqarish mumkin?",
     "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
+      "A": "60/40, 60/30, 40/30",
+      "B": "60/30, 40/30, 30/20",
+      "C": "60/40. 30/20"
     },
-    "correct_option": "C"
+    "correct_option": "A"
   },
   {
-    "text": "Python dasturlash tilini kim yaratgan?",
+    "text": "Bildirishnomalarning vazifasi qanday?",
     "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
+      "A": "Tovarlarning soni kamayganda telegram botga sms kelishi uchun",
+      "B": "Qarzdorlarning qarz kunini bildirish uchun",
+      "C": "Tovarlarning sotilmayotganlari sms bo'lib kelib turishi uchun"
     },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
-  },
-  {
-    "text": "Python dasturlash tilini kim yaratgan?",
-    "options": {
-      "A": "Dennis Ritchie",
-      "B": "Guido van Rossum",
-      "C": "James Gosling",
-      "D": "Bjarne Stroustrup"
-    },
-    "correct_option": "B"
-  },
-  {
-    "text": "HTML bu ...",
-    "options": {
-      "A": "Dasturlash tili",
-      "B": "Ma'lumotlar bazasi",
-      "C": "Belgilash tili",
-      "D": "Operatsion tizim"
-    },
-    "correct_option": "C"
+    "correct_option": "A"
   }
 ]
